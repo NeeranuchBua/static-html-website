@@ -1,0 +1,7 @@
+version: '1'
+services:
+  web:
+    image: neeranuch5015/midterm:midterm
+    ports:
+      - "8015:80"
+
